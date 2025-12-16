@@ -2,8 +2,8 @@
 
 1. Clonar el repositorio
 2. Instalar los modulos de node
-3. levantar la base de datos ```docker compose up -d ```
-4. Renombra el .env-template a .env y asignar las variables de entorno
+3. Renombra el .env-template a .env y asignar las variables de entorno
+4. levantar la base de datos ```docker compose up -d ```
 5. Iniciar el servidor ```npm run start:dev```
 6. Ejecutar el seed llamando al endpoint get ```/api/seed```
 
