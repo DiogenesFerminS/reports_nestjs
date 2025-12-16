@@ -34,4 +34,3 @@ export class Country {
   })
   continent: string | null;
 }
-// TODO: HACER EL SEED DE LA DATA DE COUNTRIES
